@@ -1,0 +1,18 @@
+# build / binaries
+build/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
