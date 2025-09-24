@@ -43,6 +43,7 @@ nvcc -o perf_benchmarks src/perf_benchmarks.cu
 
 ```
 ## Sample Output for perf_benchmarks
+```bash
 Generated random 1024x1024 matrices A and B.
 CPU MatMul Time: 12073.1 ms
 GPU MatMul Time: 373.833 ms
